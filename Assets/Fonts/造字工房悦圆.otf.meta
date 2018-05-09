@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 09932ffd942517849ae8742a48af5ae7
+timeCreated: 1520078936
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 336
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RTWS YueRoundedGothic Demo
+  fontNames:
+  - RTWS YueRoundedGothic Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
